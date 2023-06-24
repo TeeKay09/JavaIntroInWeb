@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(18, 19, 18);
+    color: rgb(245, 243, 241);
+  }
+  
+  .container {
+    margin: auto;
+    padding: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .darkmode {
+    background-color: rgb(226, 32, 42);
+    color: rgb(8, 8, 8);
+  }
+  
+  .btn,
+  .theMessageButton {
+    width: auto;
+    color: rgb(156, 97, 97);
+    background-color: rgb(11, 12, 12);
+  }
+  
+  .btn:hover,
+  .theMessageButton:hover {
+    width: auto;
+    color: rgb(246, 248, 248);
+    background-color: rgb(241, 202, 23);
+  }
+  
+  .theInputValue {
+    width: 20%;
+  }
+  
+  ul {
+    list-style: none;
+  }
+  
